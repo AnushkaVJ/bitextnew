@@ -1,0 +1,2 @@
+# bitextnew
+Static Site Test
